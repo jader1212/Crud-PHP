@@ -1,0 +1,6 @@
+1. Criar um banco de dados com nome 'crud'.
+2. O banco crud foi criado em agrupamento 'latin1_swedish_ci' esse era o padrão do meu sistema mas o correto era ser 'utf8_general_ci'
+3. Clique em importar e importe o 'crud.sql' que está na pasta principal crud-php.
+4. Após isso estará pronto o BD, coloque o arquivo crud-php no teu host exemplo: Laragon.
+5. Agora abra o diretória pelo link http://localhost/crud-php/public/
+6. Pronto!!
